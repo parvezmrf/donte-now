@@ -118,6 +118,7 @@ hr {
     display: flex;
     margin: auto;
     width: 80%;
+    padding-bottom: 80px;
 }
 
 .donate-plan-section div {
@@ -151,4 +152,21 @@ hr {
 
 .bg3 {
     background-color: #2c696c49;
+}
+
+
+.section-lives {
+    display: flex;
+    margin: auto;
+    width: 80%;
+}
+
+.section-lives div {
+    width: 50%;
+    padding: 0;
+}
+
+.section-lives img {
+    width: 500px;
+
 }
