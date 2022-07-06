@@ -73,14 +73,14 @@ body {
 }
 
 #selected {
-    background-color: #ffbdbd;
+    background-color: #ffbdbd4f;
     width: 100px;
     margin: 10px;
     text-align: center;
     line-height: 100px;
     font-size: 30px;
     font-weight: bold;
-    border: 2px solid tomato;
+    border: 2px solid rgba(255, 99, 71, 0.411);
 }
 
 
