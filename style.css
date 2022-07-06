@@ -50,6 +50,7 @@ body {
 }
 
 .donate-today p {
+    color: #7c7c7c;
     margin-left: 20%;
     margin-right: 20%;
     font-size: 18px;
@@ -110,6 +111,7 @@ hr {
 }
 
 .donate-plan p {
+    color: #7c7c7c;
     font-size: 18px;
     margin-left: 20%;
     margin-right: 20%;
@@ -140,6 +142,7 @@ hr {
 }
 
 .donate-plan-section p {
+    color: #7c7c7c;
     padding: 0px 30px 30px 30px;
 }
 
@@ -184,6 +187,7 @@ hr {
 }
 
 .section-lives p {
+    color: #7c7c7c;
     font-size: 25px;
     padding-right: 20px;
 }
@@ -227,6 +231,7 @@ hr {
 }
 
 .section-need p {
+    color: #7c7c7c;
     font-size: 25px;
     padding-right: 20px;
 }
@@ -255,8 +260,9 @@ hr {
 }
 
 .inputbg {
-    background-color: #cfcfcf;
+    background-color: #cfcfcf42;
     border-radius: 5px 0 0 5px;
+    padding: 10px;
 }
 
 footer {
@@ -294,10 +300,15 @@ footer p {
     margin: auto;
 }
 
+.how-works-donate p {
+    color: #7c7c7c;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+}
+
 .how-works-donate img {
     padding: 30px;
-
-
 }
 
 .how-works-donate h1 {
@@ -330,11 +341,4 @@ footer p {
     padding-top: 0;
     padding-bottom: 20px;
     font-size: 50px;
-}
-
-
-.how-works-donate p {
-    padding-left: 10px;
-    padding-right: 10px;
-    text-align: justify;
 }
